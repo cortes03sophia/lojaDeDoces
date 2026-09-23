@@ -1,0 +1,8 @@
+{
+  "name": "Maison Velouté | Confeitaria & Chocolateria Artesanal",
+  "description": "Atelier de alta confeitaria e chocolateria artesanal. Bombons lapidados, macarons parisienses, bolos contemporâneos e experiências gastronômicas sob medida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
